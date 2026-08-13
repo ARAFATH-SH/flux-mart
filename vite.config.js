@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/flux-mart/",
 
   server: {
-    port: 5173,
+    port: 8080,
     open: true,
   },
 });
